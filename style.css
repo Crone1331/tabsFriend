@@ -53,13 +53,13 @@ body {
 }
 
 .fon__1 {
-    background: url('1.jpg') center center/cover no-repeat;
+    background: url('img/1.jpg') center center/cover no-repeat;
 }
 
 .fon__2 {
-    background: url('2.jpg') center center/cover no-repeat;
+    background: url('img/2.jpg') center center/cover no-repeat;
 }
 
 .fon__3 {
-    background: url('3.jpg') center center/cover no-repeat;
+    background: url('img/3.jpg') center center/cover no-repeat;
 }
